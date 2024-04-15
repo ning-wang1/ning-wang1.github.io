@@ -26,7 +26,6 @@ Work experience
 * 2022 Summer Intern 2022: Security SDE
   * Bytedance
   * Duties included: Building Intelligence for Access Control
-  * Supervisor: Martin Shi
 
 
 Skills
