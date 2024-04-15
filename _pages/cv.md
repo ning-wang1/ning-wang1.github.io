@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Ning's CV](http://ning-wang1.github.io/files/CurriculumVitae_USF.pdf)
+[Ning's CV](http://ning-wang1.github.io/files/CurriculumVitae_USF_04-15.pdf)
 
 Education
 ======
