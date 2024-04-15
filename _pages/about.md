@@ -24,7 +24,7 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
--Our paper MINDFL: Mitigating the Impact of Imbalanced and Noisy-Labeled Data in Federated Learning With Quality and Fairness-Aware Client Selection,' is accepted by IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023)
+-Our paper MINDFL: Mitigating the Impact of Imbalanced and Noisy-Labeled Data in Federated Learning With Quality and Fairness-Aware Client Selection,' is accepted by IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023) [pdf](http://ning-wang1.github.io/files/MINDFL.pdf)
 
 -Our paper Squeezing More Utility via Adaptive Clipping on Deferentially Private Gradients in Federated Meta-Learning is accepted by The Annual Computer Security Applications Conference (ACSAC 2022). (Sep. 2022) [pdf](http://ning-wang1.github.io/files/dp.pdf)
 
