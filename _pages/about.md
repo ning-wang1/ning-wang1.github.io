@@ -14,8 +14,9 @@ My research interests include federated learning, network intrusion detection, a
 
 
 
-
+## Opening
 <span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students with research interests in any area of cybersecurity or the intersection of AI and security. If this opportunity interests you, reach out to me ([ningw@usf.edu](ningw@usf.edu)), providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.
+
 
 ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015
@@ -24,7 +25,15 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
+-Ning will serve on the TPC of IEEE INFOCOM 2025 and IEEE MILCOM 2025 (May 2024)
+
+-Ning will serve as a TPC member for AACD co-located with ACM CCS 2024 (May 2024)
+
+-Ning will serve as a TPC member for WiseML 2024 in conjunction with ACM WiSec 2024 (Feb 2024)
+
 -Our paper MINDFL: Mitigating the Impact of Imbalanced and Noisy-Labeled Data in Federated Learning With Quality and Fairness-Aware Client Selection,' is accepted by IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023) [pdf](http://ning-wang1.github.io/files/MINDFL.pdf)
+
+-Ning will serve as a TPC member for ACM Workshop on Moving Target Defense (MTD) 23 co-located with ACM Conference on Computer and Communications (CCS) 23 (June 2023)
 
 -Our paper Squeezing More Utility via Adaptive Clipping on Deferentially Private Gradients in Federated Meta-Learning is accepted by The Annual Computer Security Applications Conference (ACSAC 2022). (Sep. 2022) [pdf](http://ning-wang1.github.io/files/dp.pdf) [code](https://github.com/ning-wang1/DPFedMeta)
 
