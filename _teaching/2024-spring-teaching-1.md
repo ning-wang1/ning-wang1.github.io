@@ -8,13 +8,3 @@ date: 2024-01-01
 location: "Tampa, FL"
 ---
 
-
-<!-- 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== --> 
