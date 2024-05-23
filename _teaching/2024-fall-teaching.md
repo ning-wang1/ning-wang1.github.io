@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-fall-teaching
 venue: "University of South Florida, Department of Computer Science and Engineering"
-date: Fall 2023 and Fall 2024
+date: 2024-09-01
 location: "Tampa, FL"
 ---
 
