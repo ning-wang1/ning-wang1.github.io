@@ -1,4 +1,3 @@
-
 ---
 title: "CIS 4219 Human Aspects of Cybersecurity"
 collection: teaching

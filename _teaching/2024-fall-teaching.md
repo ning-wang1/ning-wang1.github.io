@@ -1,4 +1,3 @@
-
 ---
 title: "CIS 6930 Security and Privacy of Machine Learning"
 collection: teaching
