@@ -9,6 +9,7 @@ location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
+CIS 4219 Human Aspects of Cybersecurity
 
 Heading 1
 ======
