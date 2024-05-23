@@ -1,10 +1,10 @@
 
 ---
-title: CIS 6930 Security and Privacy of Machine Learning
+title: "CIS 6930 Security and Privacy of Machine Learning"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-fall-teaching
-venue: "University of South Florida, Department"
+venue: "University of South Florida, Department of Computer Science and Engineering"
 date: Fall 2023 and Fall 2024
 location: "Tampa, FL"
 ---
