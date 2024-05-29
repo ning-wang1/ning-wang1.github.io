@@ -8,7 +8,8 @@ date: 2024-09-01
 location: "Tampa, FL"
 ---
 
-This is course created by Dr. Wang.
+This course is created by Dr. Wang.
+2023 Fall, 2024 Fall
 
 <!-- 
 Heading 1
