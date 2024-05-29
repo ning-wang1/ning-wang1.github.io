@@ -25,13 +25,15 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
--Ning will serve on the TPC of IEEE INFOCOM 2025 and IEEE MILCOM 2025 (May 2024)
+-[May 2024] Ning will serve as a TPC member for NDSS 2025 (fall cycle).
 
--Ning will serve as a TPC member for AACD co-located with ACM CCS 2024 (May 2024)
+-[May 2024] Ning will serve on the TPC of IEEE INFOCOM 2025 and IEEE MILCOM 2025.
 
--Ning will serve as a TPC member for WiseML 2024 in conjunction with ACM WiSec 2024 (Feb 2024)
+-[May 2024] Ning will serve as a TPC member for AACD co-located with ACM CCS 2024.
 
--Our paper MINDFL: Mitigating the Impact of Imbalanced and Noisy-Labeled Data in Federated Learning With Quality and Fairness-Aware Client Selection,' is accepted by IEEE Military Communications Conference (MILCOM 2023). (Aug. 2023) [pdf](http://ning-wang1.github.io/files/MINDFL.pdf)
+-[Feb 2024] Ning will serve as a TPC member for WiseML 2024 in conjunction with ACM WiSec 2024.
+
+-[Aug 2023] Our paper MINDFL: Mitigating the Impact of Imbalanced and Noisy-Labeled Data in Federated Learning With Quality and Fairness-Aware Client Selection,' is accepted by IEEE Military Communications Conference (MILCOM 2023). [pdf](http://ning-wang1.github.io/files/MINDFL.pdf)
 
 -Ning will serve as a TPC member for ACM Workshop on Moving Target Defense (MTD) 23 co-located with ACM Conference on Computer and Communications (CCS) 23 (June 2023)
 
