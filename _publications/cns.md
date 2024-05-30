@@ -4,14 +4,10 @@ collection: publications
 permalink: 
 excerpt: 
 date: 
-venue: 
+venue: 'IEEE Conference on Communications and Network Security (CNS)'
 paperurl: 
 citation:
 ---
 
-Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou
-
-IEEE Conference on Communications and Network Security (CNS)
- 
-[Download paper here](http://ning-wang1.github.io/files/CNS.pdf)
+Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou [pdf](http://ning-wang1.github.io/files/CNS.pdf)
 
