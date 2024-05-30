@@ -1,6 +1,6 @@
 ---
 title: "Securing Federated Learning against Poisoning Attacks"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/flare.pdf'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/flare.png'>"
 collection: portfolio
 ---
 
