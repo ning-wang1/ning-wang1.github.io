@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Transferability of Adversarial Examples in Machine Learning-based Malware Detection"
 collection: publications
 permalink: 
 excerpt: 
@@ -8,7 +8,6 @@ venue:
 paperurl: 
 citation:
 ---
-"Transferability of Adversarial Examples in Machine Learning-based Malware Detection"
 
 Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou
 
