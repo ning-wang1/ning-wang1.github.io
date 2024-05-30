@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Improve the Robusteness of Machine Learning-base Intrusion Detection Systems"
+excerpt: "<br/><img src='/images/feco.png'>"
 collection: portfolio
 ---
 

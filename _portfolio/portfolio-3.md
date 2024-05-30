@@ -1,6 +1,6 @@
 ---
-title: "Securing Federated Learning against Poisoning Attacks"
-excerpt: "<br/><img src='/images/flare.png'>"
+title: "Privacy Protection for Federated Learning Systems"
+excerpt: "<br/><img src='/images/dp.png'>"
 collection: portfolio
 ---
 

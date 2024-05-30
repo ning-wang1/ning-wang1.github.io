@@ -1,6 +1,6 @@
 ---
-title: "Securing Federated Learning against Poisoning Attacks"
-excerpt: "<br/><img src='/images/flare.png'>"
+title: "Securing Machine Learning-based Intrusion Detection Systems against Adversarial Attacks"
+excerpt: "<br/><img src='/images/manda.png'>"
 collection: portfolio
 ---
 
