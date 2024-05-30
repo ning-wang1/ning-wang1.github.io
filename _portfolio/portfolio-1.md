@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Securing Federated Learning against Poisoning Attacks"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/flare.pdf'>"
 collection: portfolio
 ---
 
