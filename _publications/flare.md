@@ -8,6 +8,6 @@ venue: '17th ACM ASIA Conference on Computer and Communications Security (ACM AS
 paperurl: 
 citation: 
 ---
-
-[Download paper here](http://ning-wang1.github.io/files/flare.pdf)
+N. Wang, Y. Xiao, Y. Chen, Y. Hu, W. Lou and Y.T. Hou
+[pdf](http://ning-wang1.github.io/files/flare.pdf)
 

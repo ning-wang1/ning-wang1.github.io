@@ -8,6 +8,6 @@ venue: 'Annual Computer Security Applications Conference (ACSAC)'
 paperurl: 
 citation: 
 ---
-
-[Download paper here](http://ning-wang1.github.io/files/dp.pdf)
+N. Wang, Y. Xiao, Y. Chen, N. Zhang, W. Lou and Y.T. Hou
+[pdf](http://ning-wang1.github.io/files/dp.pdf)
 

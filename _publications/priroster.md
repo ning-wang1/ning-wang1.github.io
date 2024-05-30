@@ -8,5 +8,6 @@ venue: 'IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN
 paperurl: 
 citation: 
 ---
-[Download paper here](http://ning-wang1.github.io/files/priroster.pdf)
+R. Zhang, N. Wang, N. zhang, Z. Yan, W. Lou and Y.T. Hou
+[pdf](http://ning-wang1.github.io/files/priroster.pdf)
 

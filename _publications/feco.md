@@ -9,6 +9,6 @@ paperurl:
 citation: 
 ---
 
-
-[Download paper here](http://ning-wang1.github.io/files/feco.pdf)
+N. Wang, Y. Chen, Y. Hu, W. Lou and Y.T. Hou
+[pdf](http://ning-wang1.github.io/files/feco.pdf)
 

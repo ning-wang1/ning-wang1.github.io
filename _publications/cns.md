@@ -4,7 +4,6 @@ collection: publications
 permalink: 
 excerpt: 
 date: 2022-10-05
-authors: Y. Hu, N. Wang, Y. Chen, W. Lou and Y.T. Hou
 venue: 'IEEE Conference on Communications and Network Security (CNS)'
 paperurl: 
 citation:
