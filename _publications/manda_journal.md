@@ -3,7 +3,8 @@ title: "MANDA: On Adversarial Example Detection for Network Intrusion Detection 
 collection: publications
 permalink: 
 excerpt: 
-venue: ' IEEE Transactions on Dependable and Secure Computing'
+venue: 'IEEE Transactions on Dependable and Secure Computing'
+date: 2023-03-03
 paperurl: 
 citation: 
 ---
