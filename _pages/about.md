@@ -25,9 +25,13 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
+-[July 2024] Ning will serve as a TPC member for AsiaCCS.
+
 -[May 2024] Ning will serve as a TPC member for NDSS 2025 (fall cycle).
 
--[May 2024] Ning will serve on the TPC of IEEE INFOCOM 2025 and IEEE MILCOM 2025.
+-[May 2024] Ning will server as a TPC member for and IEEE MILCOM 2025.
+
+-[May 2024] Ning will serve as a TPC member and Web Chair of IEEE INFOCOM 2025.
 
 -[May 2024] Ning will serve as a TPC member for AACD co-located with ACM CCS 2024.
 
