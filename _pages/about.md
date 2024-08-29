@@ -25,9 +25,9 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
--[Aug 2024] Our paper 'Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective' has been accepted to the 2024 IEEE Conference on Communications and Network Security (CNS).
+-[Aug 2024] Our paper 'Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective' has been accepted to IEEE CNS 2024.
 
--[Aug 2024] Pur paper 'Hermes: Boosting the Performance of Machine-Learning-based Intrusion Detection System through Geometric Feature Learning' is accepted by The 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc 2024)
+-[Aug 2024] Our paper 'Hermes: Boosting the Performance of Machine-Learning-based Intrusion Detection System through Geometric Feature Learning' is accepted by ACM MobiHoc 2024.
 
 -[July 2024] Ning will serve as a TPC member for AsiaCCS.
 
