@@ -25,6 +25,10 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
+-[Aug 2024] Our paper 'Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective' has been accepted to the 2024 IEEE Conference on Communications and Network Security (CNS).
+
+-[Aug 2024] Pur paper 'Hermes: Boosting the Performance of Machine-Learning-based Intrusion Detection System through Geometric Feature Learning' is accepted by The 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (ACM MobiHoc 2024)
+
 -[July 2024] Ning will serve as a TPC member for AsiaCCS.
 
 -[May 2024] Ning will serve as a TPC member for NDSS 2025 (fall cycle).
@@ -37,7 +41,7 @@ My research interests include federated learning, network intrusion detection, a
 
 -[Feb. 2024] Ning will serve as a TPC member for WiseML 2024 in conjunction with ACM WiSec 2024.
 
--[Aug. 2023] Our paper MINDFL: Mitigating the Impact of Imbalanced and Noisy-Labeled Data in Federated Learning With Quality and Fairness-Aware Client Selection,' is accepted by IEEE Military Communications Conference (MILCOM 2023). [pdf](http://ning-wang1.github.io/files/MINDFL.pdf)
+-[Aug. 2023] Our paper MINDFL: Mitigating the Impact of Imbalanced and Noisy-Labeled Data in Federated Learning With Quality and Fairness-Aware Client Selection is accepted by IEEE Military Communications Conference (MILCOM 2023). [pdf](http://ning-wang1.github.io/files/MINDFL.pdf)
 
 -[June 2023] Ning will serve as a TPC member for ACM Workshop on Moving Target Defense (MTD) 23 co-located with ACM Conference on Computer and Communications (CCS) 23.
 

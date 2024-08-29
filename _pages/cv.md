@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Ning's CV](http://ning-wang1.github.io/files/CurriculumVitae_Ning.pdf)
+[Ning's CV](http://ning-wang1.github.io/files/CurriculumVitae_0824.pdf)
 
 Education
 ======
@@ -23,9 +23,6 @@ Work experience
   * Department of Computer Science and Engineering, University of South Florida
 * Graduate Research Assistant (08/2018-05/2023)
   * [CNSR@VT](https://www.cnsr.ictas.vt.edu/)
-* 2022 Summer Intern 2022: Security SDE
-  * Bytedance
-  * Duties included: Building Intelligence for Access Control
 
 
 Skills
