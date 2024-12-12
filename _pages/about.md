@@ -25,6 +25,8 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
+-[Dec 2024] Our paper 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction' has been accepted by NDSS 2025.
+
 -[Aug 2024] Our paper 'Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective' has been accepted to IEEE CNS 2024.
 
 -[Aug 2024] Our paper 'Hermes: Boosting the Performance of Machine-Learning-based Intrusion Detection System through Geometric Feature Learning' is accepted by ACM MobiHoc 2024.
