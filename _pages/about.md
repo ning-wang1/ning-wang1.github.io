@@ -25,6 +25,10 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
+-[Jan 2025] Ning will serve as a chair for MILCOM 2025 Track 3.
+
+-[Dec 2024] Our paper 'FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations' has been accepted by TDSC.
+
 -[Dec 2024] Our paper 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction' has been accepted by NDSS 2025.
 
 -[Aug 2024] Our paper 'Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective' has been accepted to IEEE CNS 2024.
