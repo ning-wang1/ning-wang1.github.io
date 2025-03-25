@@ -24,7 +24,14 @@ My research interests include federated learning, network intrusion detection, a
 * Ph.D in Computer Engineering, Virginia Tech, 2023
 
 
+
 ## News
+-[Mar 2025] Our paper 'Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks' has been accepted by ESORICS 2025.
+
+-[Feb 2025] Our paper 'Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection' has been accepted by PAKDD.
+
+-[Feb 2025] Our paper 'FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning' has been accepted by TDSC.
+
 -[Jan 2025] Ning will serve as a chair for MILCOM 2025 Track 3.
 
 -[Dec 2024] Our paper 'FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations' has been accepted by TDSC.
