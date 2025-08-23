@@ -10,7 +10,7 @@ redirect_from:
 
 I am an assistant professor in the [Bellini College of Artificial Intelligence, Cybersecurity, and Computing (CAICC)](https://www.usf.edu/ai-cybersecurity-computing/) at the University of South Florida (USF). 
 
-My research interests include federated learning, network intrusion detection, adversarial machine learning, differential privacy, and LLM application in cybersecurity.
+My research interests include federated learning, network intrusion detection, adversarial machine learning, differential privacy, and LLM application in cybersecurity. Detail about our research can be found at our lab webpage [SPRAI](https://trust-ai-lab.github.io/index.html).
 
 
 
@@ -26,13 +26,17 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
+-[Aug 2025] Nikhil and Sudharshan Joined SPRAI lab.
+
+-[July 2025] Our paper 'BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning' has been accepted by ECAI 2025
+
 -[Mar 2025] Our paper 'Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks' has been accepted by ESORICS 2025.
 
 -[Feb 2025] Our paper 'Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection' has been accepted by PAKDD.
 
 -[Feb 2025] Our paper 'FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning' has been accepted by TDSC.
 
--[Jan 2025] Ning will serve as a chair for MILCOM 2025 Track 3.
+-[Jan 2025] Ning will serve as a TPC member for MILCOM 2025 Track 3.
 
 -[Dec 2024] Our paper 'FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations' has been accepted by TDSC.
 
