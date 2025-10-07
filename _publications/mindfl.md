@@ -9,5 +9,5 @@ paperurl:
 citation: 
 ---
 C. Zhang, N. Wang, S. Shi, C. Du, W. Lou and Y.T. Hou
-[pdf](http://ning-wang1.github.io/files/mindfl.pdf)
+[pdf](http://ning-wang1.github.io/files/MINDFL.pdf)
 
