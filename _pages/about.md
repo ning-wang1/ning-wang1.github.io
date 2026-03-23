@@ -26,6 +26,14 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
+-[Mar 2026] Our paper 'DFL-C: Robust Model-Consistent Decentralized Federated Learning for Mission Networks' has been accepted by IEEE SECON.
+
+-[Mar 2026] Our paper 'Noise, Why Can't You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility' has been accepted by AsiaCCS.
+
+-[Feb 2026] Our paper 'Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Model Poisoning Attacks'
+
+-[Oct 2025] Our paper 'Buffer is All You Need: Defending Federated Learning Against Backdoor Attacks Under Non-Iids via Buffering' has been accepted by IEEE TrustCom.
+
 -[Aug 2025] Nikhil and Sudharshan Joined SPRAI lab.
 
 -[July 2025] Our paper 'BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning' has been accepted by ECAI 2025
