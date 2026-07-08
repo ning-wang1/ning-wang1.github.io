@@ -13,20 +13,20 @@ author_profile: true
 
 <div class="pub-entry">
 
-<div class="pub-title">
-<strong>{{ paper.title }}</strong>
-{% if paper.pdf %}
-&nbsp;<a href="{{ paper.pdf }}">[PDF]</a>
-{% endif %}
-</div>
+  <div class="pub-title">
+    <strong>{{ paper.title }}</strong>
+    {% if paper.pdf %}
+      <a href="{{ paper.pdf | relative_url }}" target="_blank" rel="noopener">[PDF]</a>
+    {% endif %}
+  </div>
 
-<div class="pub-authors">
-{{ paper.authors }}
-</div>
+  <div class="pub-authors">
+    {{ paper.authors }}
+  </div>
 
-<div class="pub-venue">
-<em>{{ paper.venue }}</em>
-</div>
+  <div class="pub-venue">
+    <em>{{ paper.venue }}</em>
+  </div>
 
 </div>
 

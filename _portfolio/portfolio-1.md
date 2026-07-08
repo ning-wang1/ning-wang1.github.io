@@ -1,7 +1,6 @@
 ---
 title: "Securing Federated Learning against Poisoning Attacks"
-excerpt: "<br/><img src='/images/flare.png'>"
-collection: portfolio
+excerpt: "Federated learning is vulnerable to both data poisoning and model poisoning attacks. My research develops robust defenses to identify malicious clients while preserving collaborative learning."
+header:
+  teaser: '/images/flare.png'
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
