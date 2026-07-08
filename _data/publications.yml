@@ -8,24 +8,24 @@
     - title: "Noise, Why Can't You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility"
       authors: "M. H. Shahriar, N. Wang, A. K. Sikder, N. Ramakrishnan, Y. T. Hou, W. Lou"
       venue: "AsiaCCS 2026"
-      pdf: ""
+      pdf: "/files/noiseasiaccs"
 
     - title: "EarlyShield: Early-Stage Screening for Robust Personalized Federated Learning"
       authors: "S. Li, X. Lyu, N. Wang, T. Li, D. Chen, Y. Hu, Y. Chen"
       venue: "PAKDD 2026"
-      pdf: ""
+      pdf: "/files/earlyshield.pdf"
 
 - year: 2025
   papers:
     - title: "FLARE: Defending Federated Learning Against Model Poisoning Attacks via Latent Space Representations"
       authors: "N. Wang, C. Zhang, Y. Xiao, Y. Chen, W. Lou, Y. T. Hou"
       venue: "IEEE Transactions on Dependable and Secure Computing"
-      pdf: ""
+      pdf: "/files/flare.pdf"
 
     - title: "FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning"
       authors: "N. Wang, S. Shi, Y. Chen, W. Lou, Y. T. Hou"
       venue: "IEEE Transactions on Dependable and Secure Computing"
-      pdf: ""
+      pdf: "/files/feco.pdf"
 
     - title: "BoBa: Boosting Backdoor Detection Through Data Distribution Inference in Federated Learning"
       authors: "Z. Jiang, X. Lyu, S. Shi, Y. Xiao, Y. Chen, Y. T. Hou, W. Lou, N. Wang"
@@ -35,19 +35,120 @@
     - title: "Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks"
       authors: "M. H. Shahriar, N. Wang, N. Ramakrishnan, Y. T. Hou, W. Lou"
       venue: "ESORICS 2025"
-      pdf: ""
+      pdf: "/files/noiseesorics.pdf"
 
     - title: "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction"
       authors: "S. Shi, N. Wang, Y. Xiao, C. Zhang, Y. Shi, Y. T. Hou, W. Lou"
       venue: "NDSS 2025"
-      pdf: ""
+      pdf: "/files/scalemia.pdf"
 
     - title: "Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection"
       authors: "S. Li, X. Lyu, N. Wang, T. Li, D. Chen, Y. Chen"
       venue: "PAKDD 2025"
-      pdf: ""
+      pdf: "/files/beyonduniformity.pdf"
 
     - title: "Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering"
       authors: "X. Lyu, N. Wang, Y. Xiao, S. Li, T. Li, D. Chen, Y. Chen"
       venue: "TrustCom 2025"
-      pdf: ""
+      pdf: "/files/buffer.pdf"
+
+      - year: 2024
+  papers:
+    - title: "Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning"
+      authors: "Chaoyu Zhang, Shanghao Shi, Ning Wang, Xiangxiang Xu, Shaoyu Li, Lizhong Zheng, Randy C. Marchany, Mark Gardner, Y. Thomas Hou, Wenjing Lou"
+      venue: "MobiHoc 2024: 251-260"
+      pdf: "/files/hermes.pdf"
+
+
+- year: 2023
+  papers:
+    - title: "Building Trustworthy Machine Learning Systems in Adversarial Environments"
+      authors: "Ning Wang"
+      venue: "Virginia Tech, Ph.D. Dissertation"
+      pdf: "/files/thesis.pdf"
+
+    - title: "MANDA: On Adversarial Example Detection for Network Intrusion Detection System"
+      authors: "Ning Wang, Yimin Chen, Yang Xiao, Yang Hu, Wenjing Lou, Y. Thomas Hou"
+      venue: "IEEE Transactions on Dependable and Secure Computing, 20(2): 1139-1153"
+      pdf: "/files/manda_journal.pdf"
+
+    - title: "MINDFL: Mitigating the Impact of Imbalanced and Noisy-labeled Data in Federated Learning with Quality and Fairness-Aware Client Selection"
+      authors: "Chaoyu Zhang, Ning Wang, Shanghao Shi, Changlai Du, Wenjing Lou, Y. Thomas Hou"
+      venue: "MILCOM 2023: 331-338"
+      pdf: "/files/MINDFL.pdf"
+
+
+- year: 2022
+  papers:
+    - title: "Squeezing More Utility via Adaptive Clipping on Differentially Private Gradients in Federated Meta-Learning"
+      authors: "Ning Wang, Yang Xiao, Yimin Chen, Ning Zhang, Wenjing Lou, Y. Thomas Hou"
+      venue: "ACSAC 2022: 647-657"
+      pdf: "/files/squeezing.pdf"
+
+    - title: "FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations"
+      authors: "Ning Wang, Yang Xiao, Yimin Chen, Yang Hu, Wenjing Lou, Y. Thomas Hou"
+      venue: "AsiaCCS 2022: 946-958"
+      pdf: "/files/flare.pdf"
+
+    - title: "Transferability of Adversarial Examples in Machine Learning-based Malware Detection"
+      authors: "Yang Hu, Ning Wang, Yimin Chen, Wenjing Lou, Y. Thomas Hou"
+      venue: "CNS 2022: 28-36"
+      pdf: "/files/transferability.pdf"
+
+    - title: "FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning"
+      authors: "Ning Wang, Yimin Chen, Yang Hu, Wenjing Lou, Y. Thomas Hou"
+      venue: "INFOCOM 2022: 1409-1418"
+      pdf: "/files/feco.pdf"
+
+- year: 2021
+  papers:
+    - title: "MANDA: On Adversarial Example Detection for Network Intrusion Detection System"
+      authors: "Ning Wang, Yimin Chen, Yang Hu, Wenjing Lou, Y. Thomas Hou"
+      venue: "INFOCOM 2021: 1-10"
+      pdf: "/files/manda.pdf"
+
+- year: 2019
+  papers:
+    - title: "PriRoster: Privacy-preserving Radio Context Attestation in Cognitive Radio Networks"
+      authors: "Ruide Zhang, Ning Wang, Ning Zhang, Zheng Yan, Wenjing Lou, Y. Thomas Hou"
+      venue: "DySPAN 2019: 1-10"
+      pdf: "/files/priroster.pdf"
+
+- year: 2018
+  papers:
+    - title: "Vehicle Distributions in Large and Small Cities: Spatial Models and Applications"
+      authors: "Qimei Cui, Ning Wang, Martin Haenggi"
+      venue: "IEEE Transactions on Vehicular Technology, 67(11): 10176-10189"
+      pdf: "/files/tvt18.pdf"
+
+    - title: "Optimization Deployment of Roadside Units with Mobile Vehicle Data Analytics"
+      authors: "Xuemei Cao, Qimei Cui, Sihai Zhang, Xueying Jiang, Ning Wang"
+      venue: "APCC 2018: 358-363"
+      pdf: "/files/OptimizationRU.pdf"
+
+- year: 2017
+  papers:
+    - title: "Energy-efficient resource allocation for hybrid bursty services in multi-relay OFDM networks"
+      authors: "Yuhao Zhang, Qimei Cui, Ning Wang, Yanzhao Hou, Weiliang Xie"
+      venue: "Science China Information Sciences, 60(10): 102304:1-102304:18"
+      pdf: "/files/sciencechina.pdf"
+
+    - title: "Spatial Point Process Modeling of Vehicles in Large and Small Cities"
+      authors: "Qimei Cui, Ning Wang, Martin Haenggi"
+      venue: "GLOBECOM 2017: 1-7"
+      pdf: "/files/globecom.pdf"
+
+    - title: "Energy Efficiency Maximization for CoMP Joint Transmission with Non-Ideal Power Amplifiers"
+      authors: "Yuhao Zhang, Qimei Cui, Ning Wang"
+      venue: "PIMRC 2017: 1-6"
+      pdf: "/files/pimrc.pdf"
+
+    - title: "Optimal Pilot Symbols Ratio in Terms of Spectrum and Energy Efficiency in Uplink CoMP Networks"
+      authors: "Yuhao Zhang, Qimei Cui, Ning Wang"
+      venue: "VTC Spring 2017: 1-5"
+      pdf: "/files/vtc.pdf"
+
+    - title: "Energy-efficient User Access Control and Resource Allocation in HCNs with Non-Ideal Circuitry"
+      authors: "Yuhao Zhang, Qimei Cui, Ning Wang"
+      venue: "WCSP 2017: 1-6"
+      pdf: "/files/wcsp.pdf"
