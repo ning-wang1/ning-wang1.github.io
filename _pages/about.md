@@ -18,10 +18,10 @@ My research interests include federated learning, network intrusion detection, a
 <span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students with research interests in any area of cybersecurity or the intersection of AI and security. If this opportunity interests you, reach out to me (ningw at usf.edu), providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.-->
 
 
-## Education
+<!-- ## Education
 * B.S. in Communications Engineering, Beijing University of Posts and Telecommunications, 2015
 * M.S. in Electrical and Computer Engineering, Beijing University of Posts and Telecommunications, 2018
-* Ph.D in Computer Engineering, Virginia Tech, 2023
+* Ph.D in Computer Engineering, Virginia Tech, 2023 -->
 
 
 

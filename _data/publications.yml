@@ -1,0 +1,53 @@
+- year: 2026
+  papers:
+    - title: "Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System Through Geometric Feature Learning"
+      authors: "C. Zhang, S. Shi, N. Wang, X. Xu, S. Li, L. Zheng, R. Marchany, M. Gardner, Y. T. Hou, W. Lou"
+      venue: "IEEE Transactions on Networking"
+      pdf: ""
+
+    - title: "Noise, Why Can't You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility"
+      authors: "M. H. Shahriar, N. Wang, A. K. Sikder, N. Ramakrishnan, Y. T. Hou, W. Lou"
+      venue: "AsiaCCS 2026"
+      pdf: ""
+
+    - title: "EarlyShield: Early-Stage Screening for Robust Personalized Federated Learning"
+      authors: "S. Li, X. Lyu, N. Wang, T. Li, D. Chen, Y. Hu, Y. Chen"
+      venue: "PAKDD 2026"
+      pdf: ""
+
+- year: 2025
+  papers:
+    - title: "FLARE: Defending Federated Learning Against Model Poisoning Attacks via Latent Space Representations"
+      authors: "N. Wang, C. Zhang, Y. Xiao, Y. Chen, W. Lou, Y. T. Hou"
+      venue: "IEEE Transactions on Dependable and Secure Computing"
+      pdf: ""
+
+    - title: "FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning"
+      authors: "N. Wang, S. Shi, Y. Chen, W. Lou, Y. T. Hou"
+      venue: "IEEE Transactions on Dependable and Secure Computing"
+      pdf: ""
+
+    - title: "BoBa: Boosting Backdoor Detection Through Data Distribution Inference in Federated Learning"
+      authors: "Z. Jiang, X. Lyu, S. Shi, Y. Xiao, Y. Chen, Y. T. Hou, W. Lou, N. Wang"
+      venue: "ECAI 2025"
+      pdf: "/files/boba.pdf"
+
+    - title: "Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks"
+      authors: "M. H. Shahriar, N. Wang, N. Ramakrishnan, Y. T. Hou, W. Lou"
+      venue: "ESORICS 2025"
+      pdf: ""
+
+    - title: "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction"
+      authors: "S. Shi, N. Wang, Y. Xiao, C. Zhang, Y. Shi, Y. T. Hou, W. Lou"
+      venue: "NDSS 2025"
+      pdf: ""
+
+    - title: "Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection"
+      authors: "S. Li, X. Lyu, N. Wang, T. Li, D. Chen, Y. Chen"
+      venue: "PAKDD 2025"
+      pdf: ""
+
+    - title: "Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering"
+      authors: "X. Lyu, N. Wang, Y. Xiao, S. Li, T. Li, D. Chen, Y. Chen"
+      venue: "TrustCom 2025"
+      pdf: ""
