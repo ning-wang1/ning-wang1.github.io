@@ -11,23 +11,24 @@ author_profile: true
 
 {% for paper in group.papers %}
 
-### {{ paper.title }}
+<div class="pub-entry">
 
-{{ paper.authors }}
-
-*{{ paper.venue }}*
-
+<div class="pub-title">
+<strong>{{ paper.title }}</strong>
 {% if paper.pdf %}
-[PDF]({{ paper.pdf }})
+&nbsp;<a href="{{ paper.pdf }}">[PDF]</a>
 {% endif %}
+</div>
 
-{% if paper.code %}
-| [Code]({{ paper.code }})
-{% endif %}
+<div class="pub-authors">
+{{ paper.authors }}
+</div>
 
-{% if paper.slides %}
-| [Slides]({{ paper.slides }})
-{% endif %}
+<div class="pub-venue">
+<em>{{ paper.venue }}</em>
+</div>
+
+</div>
 
 {% endfor %}
 
