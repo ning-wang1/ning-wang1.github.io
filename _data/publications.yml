@@ -5,7 +5,7 @@
       venue: "IEEE Transactions on Networking"
       pdf: ""
 
-    - title: "Noise, Why Can't You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility"
+    - title: "Noise, Why Cannot You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility"
       authors: "M. H. Shahriar, N. Wang, A. K. Sikder, N. Ramakrishnan, Y. T. Hou, W. Lou"
       venue: "AsiaCCS 2026"
       pdf: "/files/noiseasiaccs"
@@ -52,7 +52,7 @@
       venue: "TrustCom 2025"
       pdf: "/files/buffer.pdf"
 
-      - year: 2024
+- year: 2024
   papers:
     - title: "Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning"
       authors: "Chaoyu Zhang, Shanghao Shi, Ning Wang, Xiangxiang Xu, Shaoyu Li, Lizhong Zheng, Randy C. Marchany, Mark Gardner, Y. Thomas Hou, Wenjing Lou"
