@@ -1,7 +1,6 @@
 ---
 title: "Securing Machine Learning-based Intrusion Detection Systems against Adversarial Attacks"
-excerpt: "<br/><img src='/images/manda.png'>"
-collection: portfolio
+excerpt: "Adversarial attacks found in computer vision apply to network intrusion detection systems (IDS). We analyze multiple AE methods and discover they share one common characteristic: AE is close to the manifold of the true class rather than the target class because of the small perturbation size. Most AEs maintain a small perturbation size to maintain the original property and to hide the maliciousness. We design a detection rule as any input is an AE if there is an INCONSISTENCY between manifold evaluation and model classification."
+header:
+  teaser: '/images/manda.png'
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
