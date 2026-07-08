@@ -1,13 +1,5 @@
 ---
 title: "Improve the Robusteness of Machine Learning-base Intrusion Detection Systems"
-excerpt: "<br/><img src='/images/feco.png'>"
-collection: portfolio
----
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
----
-title: "Improve the Robusteness of Machine Learning-base Intrusion Detection Systems"
 excerpt: "Machine learning (ML) has shown advances in network intrusion detection systems because of its capability to detect zero-day attacks. However, ML-based intrusion detection usually suffers from high false positives compared with the traditional signature-based network intrusion detection system. To reduce both false positives and false negatives, we developed a contrastive learning-based intrusion detection system. The proposed detection mechanism extracted the key common properties of benign variations to learn a more accurate model for the benign class. To apply our detection model to IoT systems and alleviate privacy concerns, we incorporated FEderated learning framework into the Contrastive-learning-based detection method and proposed a system, FeCo. FeCo significantly reduced false positives and improved intrusion detection accuracy compared to previous works. Through extensive experiments on the NSL-KDD and BaIoTdatasets, we demonstrated that FeCoachieves a large accuracy improvement (as high as 8%) compared to the state-of-the-art detection methods."
 header:
   teaser: '/images/feco.png'

@@ -24,17 +24,6 @@ Work experience
 * Graduate Research Assistant (08/2018-05/2023)
   * [CNSR@VT](https://www.cnsr.ictas.vt.edu/)
 
-
-Skills
-======
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
