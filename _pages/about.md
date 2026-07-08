@@ -14,8 +14,8 @@ My research interests include federated learning, network intrusion detection, a
 
 
 
-## Opening
-<span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students with research interests in any area of cybersecurity or the intersection of AI and security. If this opportunity interests you, reach out to me (ningw at usf.edu), providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.
+<!--## Opening
+<span style="color:blue">Multiple PhD Openings (with assistantship): </span> I am looking for self-motivated students with research interests in any area of cybersecurity or the intersection of AI and security. If this opportunity interests you, reach out to me (ningw at usf.edu), providing your resume and any supplementary material that will help me gain insight into your academic background and research expertise.-->
 
 
 ## Education
@@ -26,33 +26,33 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
--[Mar 2026] Our paper 'DFL-C: Robust Model-Consistent Decentralized Federated Learning for Mission Networks' has been accepted by IEEE SECON.
+-[Apr. 2026] Our paper 'Learning from Textual Radiology Reports: A Benchmark Dataset for Coronary CT Angiography' has been accepted by ACL 2026.
 
--[Mar 2026] Our paper 'Noise, Why Can't You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility' has been accepted by AsiaCCS.
+-[Mar. 2026] Our paper 'Noise, Why Can't You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility' has been accepted by AsiaCCS.
 
--[Feb 2026] Our paper 'Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Model Poisoning Attacks'
+-[Feb. 2026] Our paper 'Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Model Poisoning Attacks' has been accepted by PAKDD 2026.
 
--[Oct 2025] Our paper 'Buffer is All You Need: Defending Federated Learning Against Backdoor Attacks Under Non-Iids via Buffering' has been accepted by IEEE TrustCom.
+-[Oct. 2025] Our paper 'Buffer is All You Need: Defending Federated Learning Against Backdoor Attacks Under Non-Iids via Buffering' has been accepted by IEEE TrustCom.
 
--[Aug 2025] Nikhil and Sudharshan Joined SPRAI lab.
+-[Aug. 2025] Nikhil and Sudharshan Joined SPRAI lab.
 
 -[July 2025] Our paper 'BoBa: Boosting Backdoor Detection through Data Distribution Inference in Federated Learning' has been accepted by ECAI 2025
 
--[Mar 2025] Our paper 'Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks' has been accepted by ESORICS 2025.
+-[Mar. 2025] Our paper 'Let the Noise Speak: Harnessing Noise for a Unified Defense Against Adversarial and Backdoor Attacks' has been accepted by ESORICS 2025.
 
--[Feb 2025] Our paper 'Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection' has been accepted by PAKDD.
+-[Feb. 2025] Our paper 'Beyond Uniformity: Robust Backdoor Attacks on Deep Neural Networks with Trigger Selection' has been accepted by PAKDD.
 
--[Feb 2025] Our paper 'FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning' has been accepted by TDSC.
+-[Feb. 2025] Our paper 'FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning' has been accepted by TDSC.
 
--[Jan 2025] Ning will serve as a TPC member for MILCOM 2025 Track 3.
+-[Jan. 2025] Ning will serve as a TPC member for MILCOM 2025 Track 3.
 
--[Dec 2024] Our paper 'FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations' has been accepted by TDSC.
+-[Dec. 2024] Our paper 'FLARE: Defending Federated Learning against Model Poisoning Attacks via Latent Space Representations' has been accepted by TDSC.
 
--[Dec 2024] Our paper 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction' has been accepted by NDSS 2025.
+-[Dec. 2024] Our paper 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction' has been accepted by NDSS 2025.
 
--[Aug 2024] Our paper 'Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective' has been accepted to IEEE CNS 2024.
+-[Aug. 2024] Our paper 'Adversarial Attacks on Federated Learning Revisited: a Client-Selection Perspective' has been accepted to IEEE CNS 2024.
 
--[Aug 2024] Our paper 'Hermes: Boosting the Performance of Machine-Learning-based Intrusion Detection System through Geometric Feature Learning' is accepted by ACM MobiHoc 2024.
+-[Aug. 2024] Our paper 'Hermes: Boosting the Performance of Machine-Learning-based Intrusion Detection System through Geometric Feature Learning' is accepted by ACM MobiHoc 2024.
 
 -[July 2024] Ning will serve as a TPC member for AsiaCCS.
 
