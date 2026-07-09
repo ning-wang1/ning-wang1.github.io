@@ -1,5 +1,10 @@
 - year: 2026
   papers:
+    - title: "Learning from Textual Radiology Reports: A Benchmark Dataset for Coronary CT Angiography"
+      authors: "S. Balaji, Z. Liu, Z. Jiang, S. Lei, Y. Chen, Y. Xiao, S. O. Almeida, M. J. Karivelil, C. Malanga, N. Wang"
+      venue: "64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+      pdf: "files/ccta.pdf"
+
     - title: "Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System Through Geometric Feature Learning"
       authors: "C. Zhang, S. Shi, N. Wang, X. Xu, S. Li, L. Zheng, R. Marchany, M. Gardner, Y. T. Hou, W. Lou"
       venue: "IEEE Transactions on Networking"
@@ -8,7 +13,7 @@
     - title: "Noise, Why Cannot You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility"
       authors: "M. H. Shahriar, N. Wang, A. K. Sikder, N. Ramakrishnan, Y. T. Hou, W. Lou"
       venue: "AsiaCCS 2026"
-      pdf: "/files/noiseasiaccs"
+      pdf: "/files/noiseasiaccs.pdf"
 
     - title: "EarlyShield: Early-Stage Screening for Robust Personalized Federated Learning"
       authors: "S. Li, X. Lyu, N. Wang, T. Li, D. Chen, Y. Hu, Y. Chen"
