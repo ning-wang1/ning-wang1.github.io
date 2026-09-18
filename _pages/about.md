@@ -26,6 +26,10 @@ My research interests include federated learning, network intrusion detection, a
 
 
 ## News
+-[Sep. 2026] Our paper 'Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning' has been accepted to appear at IEEE S&P 2027.
+
+-[July 2026] Two papers -- 'Snail: Scheduler-Driven Backdoor Injection in Split Federated Learning via Gradual Perturbation' and 'Model-Consistent Byzantine-Resilient Decentralized Federated Learning for Collaborative Missions' have been accepted by IEEE CNS 2026.
+
 -[Apr. 2026] Our paper 'Learning from Textual Radiology Reports: A Benchmark Dataset for Coronary CT Angiography' has been accepted by ACL 2026.
 
 -[Mar. 2026] Our paper 'Noise, Why Can't You Bend? Detecting Adversarial Perturbations in Wireless Sensing via Structural Fragility' has been accepted by AsiaCCS.
